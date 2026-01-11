@@ -1,0 +1,8 @@
+{
+  "name": "90595",
+  "description": "A high-fidelity streaming application dashboard for sports and live TV, featuring category browsing, live match tracking, and an interactive side menu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
